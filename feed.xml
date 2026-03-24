@@ -7,6 +7,7 @@
   <channel>
     <title>Helix.AI Daily Podcast</title>
     <link>https://helix.ai</link>
+    <atom:link href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Helix</copyright>
     <description>In under 10 minutes, get the most important AI stories, distilled into sharp insights and real-world impact. No fluff. No jargon. Just what matters and what&#x2019;s next.</description>
@@ -16,17 +17,17 @@
       <itunes:name>Helix</itunes:name>
       <itunes:email>jeff@102701.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    <itunes:image href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Tue, 24 Mar 2026 21:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 22:10:19 GMT</lastBuildDate>
     <item>
       <title>Helix.AI Daily Podcast - March 24, 2026</title>
       <description><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></description>
       <content:encoded><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1dnyKaaFiIIkXwkeUbNzmIgbT4LGkTLEh&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1dnyKaaFiIIkXwkeUbNzmIgbT4LGkTLEh&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
       <guid isPermaLink="false">helix-ai-2026-03-24-080000</guid>
       <pubDate>Tue, 24 Mar 2026 08:00:00 GMT</pubDate>
       <itunes:title>Helix.AI Daily Podcast - March 24, 2026</itunes:title>
@@ -34,7 +35,7 @@
       <itunes:duration>00:10:00</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+      <itunes:image href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/cover.png"/>
     </item>
   </channel>
 </rss>
