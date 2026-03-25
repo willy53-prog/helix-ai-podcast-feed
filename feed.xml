@@ -22,7 +22,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Tue, 24 Mar 2026 22:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:31:00 GMT</lastBuildDate>
     <item>
       <title>Helix.AI Daily Podcast - March 24, 2026</title>
       <description><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></description>
@@ -36,6 +36,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/cover.png"/>
+    </item>
+      <item>
+      <title>Chips in Orbit, Helium Crisis &amp; AI Video Explodes | Helix.AI Daily &#x2014; Wednesday, March 25, 2026</title>
+      <description><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></description>
+      <content:encoded><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1V5kUwB-zUtOhUyD7_1QtejPk-TgGfUEF&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-25-080000</guid>
+      <pubDate>Wed, 25 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Chips in Orbit, Helium Crisis &amp; AI Video Explodes | Helix.AI Daily &#x2014; Wednesday, March 25, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></itunes:summary>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
     </item>
   </channel>
 </rss>
