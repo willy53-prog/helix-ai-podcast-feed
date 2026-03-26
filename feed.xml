@@ -22,7 +22,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Wed, 25 Mar 2026 11:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:30:00 GMT</lastBuildDate>
     <item>
       <title>Helix.AI Daily Podcast - March 24, 2026</title>
       <description><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></description>
@@ -50,6 +50,20 @@
       <itunes:explicit>clean</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+      <item>
+      <title>Helix.AI Daily Podcast - Thursday, March 26, 2026</title>
+      <description><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></description>
+      <content:encoded><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=15JQVr-R47WU2jL0kFu0cAJiA6UEKTylM&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-26-080000</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Thursday, March 26, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></itunes:summary>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
     </item>
   </channel>
 </rss>
