@@ -19,10 +19,24 @@
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/cover.png"/>
     <itunes:category text="Technology"/>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Mon, 30 Mar 2026 11:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</title>
+      <description><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></description>
+      <content:encoded><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1P3iIcIdgrH0QA4ltjT3Yo7fLA2YkUD9Q&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-31-080000</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</itunes:title>
+      <itunes:summary><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></itunes:summary>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
             <item>
       <title>Helix.AI Daily Podcast - Monday, March 30, 2026</title>
       <description><![CDATA[OpenAI closes a historic $110 billion funding round at an $840 billion valuation backed by Amazon, SoftBank, and Nvidia, while shutting down Sora to focus on its next-gen Spud model and releasing GPT-5.3 Instant. Anthropic surges from 4% to 40% enterprise market share as ARM partners with Meta to launch a dedicated AGI CPU forecasting $15 billion in revenue. In today&#x2019;s AI Security segment, major breaches and reports reveal alarming gaps in enterprise AI protection, including the McKinsey Lilli hack, Cisco&#x2019;s finding that only 29% of organizations are security-ready for agentic AI, and IBM&#x2019;s data showing a 44% rise in AI-accelerated cyberattacks.]]></description>
