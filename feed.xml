@@ -22,7 +22,25 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Wed, 01 Apr 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Helix.AI Daily Podcast - Thursday, April 2, 2026</title>
+      <description><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
+    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></description>
+      <content:encoded><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
+    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1t7dgr8Mhs-oYE5EvXttwzSbwx3t2gPob&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-02-080000</guid>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Thursday, April 2, 2026</itunes:title>
+      <itunes:summary><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
+    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+
     <item>
       <title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</title>
       <description><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></description>
