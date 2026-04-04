@@ -22,7 +22,7 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Thu, 02 Apr 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:30:00 GMT</lastBuildDate>
     <item>
       <title>Helix.AI Daily Podcast - Thursday, April 2, 2026</title>
       <description><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
@@ -166,6 +166,21 @@
       <itunes:explicit>clean</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+  
+    <item>
+      <title>Helix.AI Daily Podcast - April 4, 2026</title>
+      <description><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></description>
+      <content:encoded><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1oG3xxaY3IDr8lwG7HeQuvbV5L4UxEEOR&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-04-080000</guid>
+      <pubDate>Sat, 04 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - April 4, 2026</itunes:title>
+      <itunes:summary><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></itunes:summary>
+      <itunes:duration>00:01:12</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
     </item>
   </channel>
 </rss>
