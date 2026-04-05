@@ -22,165 +22,55 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 04 Apr 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 11:30:00 GMT</lastBuildDate>
     <item>
-      <title>Helix.AI Daily Podcast - Thursday, April 2, 2026</title>
-      <description><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
-    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></description>
-      <content:encoded><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
-    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1t7dgr8Mhs-oYE5EvXttwzSbwx3t2gPob&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-04-02-080000</guid>
-      <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Thursday, April 2, 2026</itunes:title>
-      <itunes:summary><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s ban on Anthropic&#x2019;s AI in government. Anthropic accidentally leaks Claude source code. Google&#x2019;s TurboQuant compression algorithm challenges competitors. Alibaba pledges 
-    <item>00B in AI revenue. Agentic AI tools go viral amid privacy concerns. Plus our AI Security segment: Microsoft&#x2019;s RSAC 2026 announcements, ISACA&#x2019;s governance gap findings, and the emerging threat of agentic AI collusion.]]></itunes:summary>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-
-    <item>
-      <title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</title>
-      <description><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></description>
-      <content:encoded><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1P3iIcIdgrH0QA4ltjT3Yo7fLA2YkUD9Q&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-31-080000</guid>
-      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</itunes:title>
-      <itunes:summary><![CDATA[On today&#x2019;s episode of Helix.AI Daily Podcast, we cover the biggest AI launches of the week including GPT-5.4&#x2019;s one-million-token context window, Gemini 3.1 Ultra&#x2019;s two-million-token multimodal reasoning, and Xiaomi&#x2019;s MiMo-V2-Pro crossing one trillion parameters. We also break down OpenAI shutting down Sora&#x2019;s public API due to unsustainable costs, major AI-driven layoffs at Meta and Oracle, and a new congressional push to pause AI data center construction. In our healthcare segment, we spotlight the trust gap between executives and patients on clinical AI, a landmark BMJ stroke tool trial across 21,000 patients, and major investment moves from Verily and Google in health AI.]]></itunes:summary>
-      <itunes:duration>00:05:43</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-            <item>
-      <title>Helix.AI Daily Podcast - Monday, March 30, 2026</title>
-      <description><![CDATA[OpenAI closes a historic $110 billion funding round at an $840 billion valuation backed by Amazon, SoftBank, and Nvidia, while shutting down Sora to focus on its next-gen Spud model and releasing GPT-5.3 Instant. Anthropic surges from 4% to 40% enterprise market share as ARM partners with Meta to launch a dedicated AGI CPU forecasting $15 billion in revenue. In today&#x2019;s AI Security segment, major breaches and reports reveal alarming gaps in enterprise AI protection, including the McKinsey Lilli hack, Cisco&#x2019;s finding that only 29% of organizations are security-ready for agentic AI, and IBM&#x2019;s data showing a 44% rise in AI-accelerated cyberattacks.]]></description>
-      <content:encoded><![CDATA[OpenAI closes a historic $110 billion funding round at an $840 billion valuation backed by Amazon, SoftBank, and Nvidia, while shutting down Sora to focus on its next-gen Spud model and releasing GPT-5.3 Instant. Anthropic surges from 4% to 40% enterprise market share as ARM partners with Meta to launch a dedicated AGI CPU forecasting $15 billion in revenue. In today&#x2019;s AI Security segment, major breaches and reports reveal alarming gaps in enterprise AI protection, including the McKinsey Lilli hack, Cisco&#x2019;s finding that only 29% of organizations are security-ready for agentic AI, and IBM&#x2019;s data showing a 44% rise in AI-accelerated cyberattacks.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1pC8BFWbczi2wSRgv1pJxE4ZjafFsiTPy&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-30-080000</guid>
-      <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Monday, March 30, 2026</itunes:title>
-      <itunes:summary><![CDATA[OpenAI closes a historic $110 billion funding round at an $840 billion valuation backed by Amazon, SoftBank, and Nvidia, while shutting down Sora to focus on its next-gen Spud model and releasing GPT-5.3 Instant. Anthropic surges from 4% to 40% enterprise market share as ARM partners with Meta to launch a dedicated AGI CPU forecasting $15 billion in revenue. In today&#x2019;s AI Security segment, major breaches and reports reveal alarming gaps in enterprise AI protection, including the McKinsey Lilli hack, Cisco&#x2019;s finding that only 29% of organizations are security-ready for agentic AI, and IBM&#x2019;s data showing a 44% rise in AI-accelerated cyberattacks.]]></itunes:summary>
-      <itunes:duration>00:07:01</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-    <item>
-      <title>Helix.AI Daily Podcast - Sunday, March 29, 2026</title>
-      <description><![CDATA[In this Sunday episode of the Helix.AI Daily Podcast, we cover SoftBank&#x2019;s monumental $40 billion investment in OpenAI, the leaked details of Anthropic&#x2019;s Claude Mythos model and the company&#x2019;s reported $60 billion IPO plans, and OpenAI&#x2019;s new Shell Tool enabling deeper agentic AI capabilities. We also examine Intercom&#x2019;s Fin Apex 1.0 outperforming GPT-5.4 on specialized benchmarks, Meta&#x2019;s groundbreaking TRIBE v2 brain-prediction AI, and OpenAI&#x2019;s pivot from Sora toward a robotics-focused model called Spud. The episode closes with a themed segment on AI for Learning, spotlighting new federal legislation, Stanford&#x2019;s education research findings, and Coursera&#x2019;s data on student and educator attitudes toward AI.]]></description>
-      <content:encoded><![CDATA[In this Sunday episode of the Helix.AI Daily Podcast, we cover SoftBank&#x2019;s monumental $40 billion investment in OpenAI, the leaked details of Anthropic&#x2019;s Claude Mythos model and the company&#x2019;s reported $60 billion IPO plans, and OpenAI&#x2019;s new Shell Tool enabling deeper agentic AI capabilities. We also examine Intercom&#x2019;s Fin Apex 1.0 outperforming GPT-5.4 on specialized benchmarks, Meta&#x2019;s groundbreaking TRIBE v2 brain-prediction AI, and OpenAI&#x2019;s pivot from Sora toward a robotics-focused model called Spud. The episode closes with a themed segment on AI for Learning, spotlighting new federal legislation, Stanford&#x2019;s education research findings, and Coursera&#x2019;s data on student and educator attitudes toward AI.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=14kyzu-G_oqubQb0OgUQxAjJEWGUQfMv9&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-29-080000</guid>
-      <pubDate>Sun, 29 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Sunday, March 29, 2026</itunes:title>
-      <itunes:summary><![CDATA[In this Sunday episode of the Helix.AI Daily Podcast, we cover SoftBank&#x2019;s monumental $40 billion investment in OpenAI, the leaked details of Anthropic&#x2019;s Claude Mythos model and the company&#x2019;s reported $60 billion IPO plans, and OpenAI&#x2019;s new Shell Tool enabling deeper agentic AI capabilities. We also examine Intercom&#x2019;s Fin Apex 1.0 outperforming GPT-5.4 on specialized benchmarks, Meta&#x2019;s groundbreaking TRIBE v2 brain-prediction AI, and OpenAI&#x2019;s pivot from Sora toward a robotics-focused model called Spud. The episode closes with a themed segment on AI for Learning, spotlighting new federal legislation, Stanford&#x2019;s education research findings, and Coursera&#x2019;s data on student and educator attitudes toward AI.]]></itunes:summary>
-      <itunes:duration>00:04:33</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-    <item>
-      <title>Helix.AI Daily Podcast - Saturday, March 28, 2026</title>
-      <description><![CDATA[In this Saturday edition of Helix.AI Daily Podcast, host Helix.AI covers seven major AI developments including OpenAI's expert-level GPT-5.4 release, the shutdown of Sora in favor of a mystery model called Spud, Google's Gemini Deep Think hitting 90% on elite math benchmarks, and the geopolitical fallout from Anthropic being blacklisted by the Pentagon. The episode also features a special AI for Fun segment spotlighting AI-generated actress Tilly Norwood, virtual influencer Mia Zelu, and Canal Plus's major generative AI partnership with Google Cloud and OpenAI.]]></description>
-      <content:encoded><![CDATA[In this Saturday edition of Helix.AI Daily Podcast, host Helix.AI covers seven major AI developments including OpenAI's expert-level GPT-5.4 release, the shutdown of Sora in favor of a mystery model called Spud, Google's Gemini Deep Think hitting 90% on elite math benchmarks, and the geopolitical fallout from Anthropic being blacklisted by the Pentagon. The episode also features a special AI for Fun segment spotlighting AI-generated actress Tilly Norwood, virtual influencer Mia Zelu, and Canal Plus's major generative AI partnership with Google Cloud and OpenAI.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1xlTjbPQfAPimbTxKdV1EUmtGKrVhBg9W&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-28-080000</guid>
-      <pubDate>Sat, 28 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Saturday, March 28, 2026</itunes:title>
-      <itunes:summary><![CDATA[In this Saturday edition of Helix.AI Daily Podcast, host Helix.AI covers seven major AI developments including OpenAI's expert-level GPT-5.4 release, the shutdown of Sora in favor of a mystery model called Spud, Google's Gemini Deep Think hitting 90% on elite math benchmarks, and the geopolitical fallout from Anthropic being blacklisted by the Pentagon. The episode also features a special AI for Fun segment spotlighting AI-generated actress Tilly Norwood, virtual influencer Mia Zelu, and Canal Plus's major generative AI partnership with Google Cloud and OpenAI.]]></itunes:summary>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-    <item>
-      <title>Helix.AI Daily Podcast - March 24, 2026</title>
-      <description><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></description>
-      <content:encoded><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1dnyKaaFiIIkXwkeUbNzmIgbT4LGkTLEh&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-24-080000</guid>
-      <pubDate>Tue, 24 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - March 24, 2026</itunes:title>
-      <itunes:summary><![CDATA[Covers 7 stories: OpenAI's record $110B round at $730B valuation, Anthropic's $30B Series G at $380B valuation, NVIDIA Nemotron 3 Super launch at GTC, Tesla's $20B AI chip factory, ElevenLabs' $500M at $11B valuation, White House vs. state AI regulation, xAI restructuring amid competition.]]></itunes:summary>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://raw.githubusercontent.com/willy53-prog/helix-ai-podcast-feed/main/cover.png"/>
-    </item>
-      <item>
-      <title>Chips in Orbit, Helium Crisis &amp; AI Video Explodes | Helix.AI Daily &#x2014; Wednesday, March 25, 2026</title>
-      <description><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></description>
-      <content:encoded><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1V5kUwB-zUtOhUyD7_1QtejPk-TgGfUEF&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-25-080000</guid>
-      <pubDate>Wed, 25 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Chips in Orbit, Helium Crisis &amp; AI Video Explodes | Helix.AI Daily &#x2014; Wednesday, March 25, 2026</itunes:title>
-      <itunes:summary><![CDATA[On this Wednesday, March 25, 2026 episode, Helix.AI covers seven major AI headlines including Nvidia&#x2019;s trillion-dollar Blackwell projection and orbital data centers, a critical helium shortage threatening chip supply chains, Meta shutting down Horizon Worlds, and Yann LeCun&#x2019;s billion-dollar AI reasoning startup. The Wednesday spotlight dives deep into AI for Images and Video, featuring Gamma Imagine, xAI&#x2019;s Grok video generation, and Google Veo 3.1&#x2019;s cinematic AI video capabilities. The episode also covers AI regulation momentum, Apple&#x2019;s Siri overhaul, AMD&#x2019;s new AI processors, and major infrastructure funding rounds.]]></itunes:summary>
-      <itunes:duration>00:07:17</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-      <item>
-      <title>Helix.AI Daily Podcast - Thursday, March 26, 2026</title>
-      <description><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></description>
-      <content:encoded><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=15JQVr-R47WU2jL0kFu0cAJiA6UEKTylM&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-26-080000</guid>
-      <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Thursday, March 26, 2026</itunes:title>
-      <itunes:summary><![CDATA[On this Thursday, March 26, 2026 episode of Helix.AI Daily Podcast, host Helix.AI covers OpenAI's dramatic shutdown of the Sora video app and end of its $1B Disney deal, Elon Musk's $20B Terafab chip factory launch, and the Sanders/AOC moratorium bill on AI data centers. The Thursday AI for Families segment examines Senator Blackburn's AI duty-of-care framework for children, the White House's parental controls push, and HeyOtto's new purpose-built AI platform for kids ages 6-18.]]></itunes:summary>
-      <itunes:duration>00:07:58</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-    <item>
-      <title>Helix.AI Daily Podcast - Friday, March 27, 2026</title>
-      <description><![CDATA[In this Friday edition, Helix Pulse covers Morgan Stanley's forecast of an imminent AI breakthrough alongside a looming U.S. power shortfall, OpenAI's GPT-5.4 achieving human expert-level performance, surging AI investment including a $1B raise from Yann LeCun's new startup, and accelerating state-level AI regulation. The themed Friday segment dives deep into AI for students, exploring Stanford's research findings on purpose-built tutoring tools, Coursera's data on institutional unpreparedness, and the bipartisan NSF AI Education Act driving a 114% surge in U.S. AI degree programs.]]></description>
-      <content:encoded><![CDATA[In this Friday edition, Helix Pulse covers Morgan Stanley's forecast of an imminent AI breakthrough alongside a looming U.S. power shortfall, OpenAI's GPT-5.4 achieving human expert-level performance, surging AI investment including a $1B raise from Yann LeCun's new startup, and accelerating state-level AI regulation. The themed Friday segment dives deep into AI for students, exploring Stanford's research findings on purpose-built tutoring tools, Coursera's data on institutional unpreparedness, and the bipartisan NSF AI Education Act driving a 114% surge in U.S. AI degree programs.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1NhRUXMBxOXuel-dNqZj8RDlCZRO6LHWR&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-03-27-080000</guid>
-      <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Friday, March 27, 2026</itunes:title>
-      <itunes:summary><![CDATA[In this Friday edition, Helix Pulse covers Morgan Stanley's forecast of an imminent AI breakthrough alongside a looming U.S. power shortfall, OpenAI's GPT-5.4 achieving human expert-level performance, surging AI investment including a $1B raise from Yann LeCun's new startup, and accelerating state-level AI regulation. The themed Friday segment dives deep into AI for students, exploring Stanford's research findings on purpose-built tutoring tools, Coursera's data on institutional unpreparedness, and the bipartisan NSF AI Education Act driving a 114% surge in U.S. AI degree programs.]]></itunes:summary>
-      <itunes:duration>00:09:14</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-      <item>
-      <title>Helix.AI Daily Podcast - Wednesday, April 1, 2026</title>
-      <description><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Anthropic&#x2019;s revenue has doubled to $20 billion annualized and Claude topped the App Store, despite being blacklisted by the Pentagon. Plus: GPT-5.4 with a 1-million-token context window surpasses humans on benchmarks, Google Gemini 3.1 Ultra&#x2019;s multimodal reasoning, xAI Grok 4.20, Meta&#x2019;s new in-house chips, and the US AI Exports Program launch. Today&#x2019;s AI Pulse segment explores AI for Images and Video &#x2014; from Lenovo&#x2019;s on-device SD3.5-Flash model to the 4K generation standard and the current state of AI video tools.]]></description>
-      <content:encoded><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Anthropic&#x2019;s revenue has doubled to $20 billion annualized and Claude topped the App Store, despite being blacklisted by the Pentagon. Plus: GPT-5.4 with a 1-million-token context window surpasses humans on benchmarks, Google Gemini 3.1 Ultra&#x2019;s multimodal reasoning, xAI Grok 4.20, Meta&#x2019;s new in-house chips, and the US AI Exports Program launch. Today&#x2019;s AI Pulse segment explores AI for Images and Video &#x2014; from Lenovo&#x2019;s on-device SD3.5-Flash model to the 4K generation standard and the current state of AI video tools.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1AUqSia5GMo55EDaBKJiD_BRrhYqVcY2F&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-04-01-080000</guid>
-      <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - Wednesday, April 1, 2026</itunes:title>
-      <itunes:summary><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Anthropic&#x2019;s revenue has doubled to $20 billion annualized and Claude topped the App Store, despite being blacklisted by the Pentagon. Plus: GPT-5.4 with a 1-million-token context window surpasses humans on benchmarks, Google Gemini 3.1 Ultra&#x2019;s multimodal reasoning, xAI Grok 4.20, Meta&#x2019;s new in-house chips, and the US AI Exports Program launch. Today&#x2019;s AI Pulse segment explores AI for Images and Video &#x2014; from Lenovo&#x2019;s on-device SD3.5-Flash model to the 4K generation standard and the current state of AI video tools.]]></itunes:summary>
-      <itunes:duration>00:07:09</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
-    </item>
-  
-    <item>
-      <title>Helix.AI Daily Podcast - April 4, 2026</title>
-      <description><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></description>
-      <content:encoded><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></content:encoded>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1oG3xxaY3IDr8lwG7HeQuvbV5L4UxEEOR&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
-      <guid isPermaLink="false">helix-ai-2026-04-04-080000</guid>
-      <pubDate>Sat, 04 Apr 2026 08:00:00 GMT</pubDate>
-      <itunes:title>Helix.AI Daily Podcast - April 4, 2026</itunes:title>
-      <itunes:summary><![CDATA[On today's Saturday episode, Lucy covers Google's Gemma 4 open model launch, Anthropic's Claude Mythos 5 and code leak drama, OpenAI's $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral's $830M debt round, Oracle's mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></itunes:summary>
+      <title>Helix.AI Daily Podcast - April 5, 2026</title>
+      <description><![CDATA[On this Sunday edition of Helix AI Daily, Lucy breaks down a massive week in artificial intelligence &#x2014; from Anthropic&#x2019;s Claude Mythos 5 (a 10-trillion-parameter model) and its desktop AI agents, to Google DeepMind&#x2019;s Gemini 3.1, OpenAI&#x2019;s GPT-5.4, the $250B SpaceX-xAI acquisition, and Anthropic&#x2019;s controversial ban on OpenClaw and third-party agents. Plus, the AI Pulse segment dives into AI for Learning &#x2014; covering Kyron Learning&#x2019;s $14.6M raise, Singapore&#x2019;s new AI in Higher Education committee, and the Coursera vs. Brookings debate on AI&#x2019;s real impact in classrooms.]]></description>
+      <content:encoded><![CDATA[On this Sunday edition of Helix AI Daily, Lucy breaks down a massive week in artificial intelligence &#x2014; from Anthropic&#x2019;s Claude Mythos 5 (a 10-trillion-parameter model) and its desktop AI agents, to Google DeepMind&#x2019;s Gemini 3.1, OpenAI&#x2019;s GPT-5.4, the $250B SpaceX-xAI acquisition, and Anthropic&#x2019;s controversial ban on OpenClaw and third-party agents. Plus, the AI Pulse segment dives into AI for Learning &#x2014; covering Kyron Learning&#x2019;s $14.6M raise, Singapore&#x2019;s new AI in Higher Education committee, and the Coursera vs. Brookings debate on AI&#x2019;s real impact in classrooms.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=11HkV4pxssM8oUa5iEf_LU72ea08UWwO8&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-05-080000</guid>
+      <pubDate>Sun, 05 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - April 5, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Sunday edition of Helix AI Daily, Lucy breaks down a massive week in artificial intelligence &#x2014; from Anthropic&#x2019;s Claude Mythos 5 (a 10-trillion-parameter model) and its desktop AI agents, to Google DeepMind&#x2019;s Gemini 3.1, OpenAI&#x2019;s GPT-5.4, the $250B SpaceX-xAI acquisition, and Anthropic&#x2019;s controversial ban on OpenClaw and third-party agents. Plus, the AI Pulse segment dives into AI for Learning &#x2014; covering Kyron Learning&#x2019;s $14.6M raise, Singapore&#x2019;s new AI in Higher Education committee, and the Coursera vs. Brookings debate on AI&#x2019;s real impact in classrooms.]]></itunes:summary>
       <itunes:duration>00:01:12</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
     </item>
-  </channel>
-</rss>
+    <item>
+      <title>Helix.AI Daily Podcast - April 4, 2026</title>
+      <description><![CDATA[On today&#x2019;s Saturday episode, Lucy covers Google&#x2019;s Gemma 4 open model launch, Anthropic&#x2019;s Claude Mythos 5 and code leak drama, OpenAI&#x2019;s $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral&#x2019;s $830M debt round, Oracle&#x2019;s mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></description>
+      <content:encoded><![CDATA[On today&#x2019;s Saturday episode, Lucy covers Google&#x2019;s Gemma 4 open model launch, Anthropic&#x2019;s Claude Mythos 5 and code leak drama, OpenAI&#x2019;s $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral&#x2019;s $830M debt round, Oracle&#x2019;s mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1oG3xxaY3IDr8lwG7HeQuvbV5L4UxEEOR&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-04-080000</guid>
+      <pubDate>Sat, 04 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - April 4, 2026</itunes:title>
+      <itunes:summary><![CDATA[On today&#x2019;s Saturday episode, Lucy covers Google&#x2019;s Gemma 4 open model launch, Anthropic&#x2019;s Claude Mythos 5 and code leak drama, OpenAI&#x2019;s $122B raise and Sora shutdown, SpaceX acquiring xAI for $250B, Mistral&#x2019;s $830M debt round, Oracle&#x2019;s mass layoffs for AI infrastructure, and an AI that now writes peer-reviewed science. Plus &#x2014; the AI Pulse segment spotlights AI for Fun: Suno AI, Quick Draw!, and Google Veo.]]></itunes:summary>
+      <itunes:duration>00:01:12</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Thursday, April 2, 2026</title>
+      <description><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s mass deportations, and the Supreme Court weighs in. Meanwhile, Google debuts NotebookLM Plus with agentic research tools, Meta releases Llama 4 Scout and Maverick with cutting-edge multimodal and efficiency features, and a new wave of AI coding assistants threatens traditional software development roles. Today&#x2019;s AI Pulse: AI for Productivity &#x2014; covering Notion AI, Grammarly, and Microsoft 365 Copilot.]]></description>
+      <content:encoded><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s mass deportations, and the Supreme Court weighs in. Meanwhile, Google debuts NotebookLM Plus with agentic research tools, Meta releases Llama 4 Scout and Maverick with cutting-edge multimodal and efficiency features, and a new wave of AI coding assistants threatens traditional software development roles. Today&#x2019;s AI Pulse: AI for Productivity &#x2014; covering Notion AI, Grammarly, and Microsoft 365 Copilot.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1WUqpD1xjeWQaDxr2s_b3w_6x25AQ3n7O&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-02-080000</guid>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Thursday, April 2, 2026</itunes:title>
+      <itunes:summary><![CDATA[OpenAI hits an $852B valuation in a record mega-funding round. A federal judge rules against the Trump administration&#x2019;s mass deportations, and the Supreme Court weighs in. Meanwhile, Google debuts NotebookLM Plus with agentic research tools, Meta releases Llama 4 Scout and Maverick with cutting-edge multimodal and efficiency features, and a new wave of AI coding assistants threatens traditional software development roles. Today&#x2019;s AI Pulse: AI for Productivity &#x2014; covering Notion AI, Grammarly, and Microsoft 365 Copilot.]]></itunes:summary>
+      <itunes:duration>00:01:12</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Wednesday, April 1, 2026</title>
+      <description><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Also: Anthropic raises $3.5B at a $61.5B valuation, Meta&#x2019;s Llama 4 drops as open-source multimodal, xAI launches Grok 3.5 as a reasoning model, and Google DeepMind&#x2019;s AlphaFold 3 now covers RNA and small molecules. AI Pulse highlights AI for Health tools: Ada Health, Regard, and Butterfly Network&#x2019;s iQ3.]]></description>
+      <content:encoded><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Also: Anthropic raises $3.5B at a $61.5B valuation, Meta&#x2019;s Llama 4 drops as open-source multimodal, xAI launches Grok 3.5 as a reasoning model, and Google DeepMind&#x2019;s AlphaFold 3 now covers RNA and small molecules. AI Pulse highlights AI for Health tools: Ada Health, Regard, and Butterfly Network&#x2019;s iQ3.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1AUqSia5GMo55EDaBKJiD_BRrhYqVcY2F&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-01-080000</guid>
+      <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Wednesday, April 1, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Also: Anthropic raises $3.5B at a $61.5B valuation, Meta&#x2019;s Llama 4 drops as open-source multimodal, xAI launches Grok 3.5 as a reasoning model, and Google DeepMind&#x2019;s AlphaFold 3 now covers RNA and smal
