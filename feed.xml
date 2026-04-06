@@ -22,7 +22,21 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sun, 05 Apr 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:31:00 GMT</lastBuildDate>
+        <item>
+      <title>Helix.AI Daily Podcast - April 6, 2026</title>
+      <description><![CDATA[On today's episode, Lucy covers 7 major AI stories including GPT-5.4 Thinking surpassing human performance on desktop benchmarks, Google's Gemma 4 open-source launch, Microsoft's multi-model Copilot workflows, and Anthropic's new biological research agent Operon. The themed AI Security segment dives into a 4-hour market freeze caused by a tricked AI orchestrator, Anthropic's Claude Code source code leak, and alarming enterprise governance gaps revealed at RSA Conference 2026.]]></description>
+      <content:encoded><![CDATA[On today's episode, Lucy covers 7 major AI stories including GPT-5.4 Thinking surpassing human performance on desktop benchmarks, Google's Gemma 4 open-source launch, Microsoft's multi-model Copilot workflows, and Anthropic's new biological research agent Operon. The themed AI Security segment dives into a 4-hour market freeze caused by a tricked AI orchestrator, Anthropic's Claude Code source code leak, and alarming enterprise governance gaps revealed at RSA Conference 2026.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1A8Sb1fu6-M7tRAfgDFXBq1E3GsV2VJnM&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-06-080000</guid>
+      <pubDate>Mon, 06 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - April 6, 2026</itunes:title>
+      <itunes:summary><![CDATA[On today's episode, Lucy covers 7 major AI stories including GPT-5.4 Thinking surpassing human performance on desktop benchmarks, Google's Gemma 4 open-source launch, Microsoft's multi-model Copilot workflows, and Anthropic's new biological research agent Operon. The themed AI Security segment dives into a 4-hour market freeze caused by a tricked AI orchestrator, Anthropic's Claude Code source code leak, and alarming enterprise governance gaps revealed at RSA Conference 2026.]]></itunes:summary>
+      <itunes:duration>00:01:12</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
     <item>
       <title>Helix.AI Daily Podcast - April 5, 2026</title>
       <description><![CDATA[On this Sunday edition of Helix AI Daily, Lucy breaks down a massive week in artificial intelligence &#x2014; from Anthropic&#x2019;s Claude Mythos 5 (a 10-trillion-parameter model) and its desktop AI agents, to Google DeepMind&#x2019;s Gemini 3.1, OpenAI&#x2019;s GPT-5.4, the $250B SpaceX-xAI acquisition, and Anthropic&#x2019;s controversial ban on OpenClaw and third-party agents. Plus, the AI Pulse segment dives into AI for Learning &#x2014; covering Kyron Learning&#x2019;s $14.6M raise, Singapore&#x2019;s new AI in Higher Education committee, and the Coursera vs. Brookings debate on AI&#x2019;s real impact in classrooms.]]></description>
@@ -73,4 +87,123 @@
       <guid isPermaLink="false">helix-ai-2026-04-01-080000</guid>
       <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
       <itunes:title>Helix.AI Daily Podcast - Wednesday, April 1, 2026</itunes:title>
-      <itunes:summary><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Also: Anthropic raises $3.5B at a $61.5B valuation, Meta&#x2019;s Llama 4 drops as open-source multimodal, xAI launches Grok 3.5 as a reasoning model, and Google DeepMind&#x2019;s AlphaFold 3 now covers RNA and smal
+      <itunes:summary><![CDATA[On this Wednesday April 1st episode of Helix.AI Daily Podcast, Lucy covers a packed news day including OpenAI&#x2019;s major strategic pivot &#x2014; discontinuing the Sora API to focus on robotics world simulation while freezing the Disney partnership. Also: Anthropic raises $3.5B at a $61.5B valuation, Meta&#x2019;s Llama 4 drops as open-source multimodal, xAI launches Grok 3.5 as a reasoning model, and Google DeepMind&#x2019;s AlphaFold 3 now covers RNA and small molecules. AI Pulse highlights AI for Health tools: Ada Health, Regard, and Butterfly Network&#x2019;s iQ3.]]></itunes:summary>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</title>
+      <description><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-31-080000</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Tuesday, March 31, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Monday, March 30, 2026</title>
+      <description><![CDATA[On this Monday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Monday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-30-080000</guid>
+      <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Monday, March 30, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Monday episode, Lucy covers the most important AI news of the day including a major OpenAI product update, new model releases, and key industry developments. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Sunday, March 29, 2026</title>
+      <description><![CDATA[On this Sunday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Sunday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-29-080000</guid>
+      <pubDate>Sun, 29 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Sunday, March 29, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Sunday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Saturday, March 28, 2026</title>
+      <description><![CDATA[On this Saturday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Saturday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-28-080000</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Saturday, March 28, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Saturday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Friday, March 27, 2026</title>
+      <description><![CDATA[On this Friday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Friday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-27-080000</guid>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Friday, March 27, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Friday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Thursday, March 26, 2026</title>
+      <description><![CDATA[On this Thursday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Thursday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-26-080000</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Thursday, March 26, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Thursday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Wednesday, March 25, 2026</title>
+      <description><![CDATA[On this Wednesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Wednesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-25-080000</guid>
+      <pubDate>Wed, 25 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Wednesday, March 25, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Wednesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
+      <title>Helix.AI Daily Podcast - Tuesday, March 24, 2026</title>
+      <description><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></description>
+      <content:encoded><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1nT5aq1L7jGmFMpMN3Hj8QKQFb2Y4xMzM&amp;export=download&amp;confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-03-24-080000</guid>
+      <pubDate>Tue, 24 Mar 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - Tuesday, March 24, 2026</itunes:title>
+      <itunes:summary><![CDATA[On this Tuesday episode, Lucy covers the most important AI news of the day. Today&#x2019;s AI Pulse segment explores practical AI tools making a real-world difference.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&amp;id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+  </channel>
+</rss>
