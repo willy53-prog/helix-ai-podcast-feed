@@ -22,8 +22,22 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Mon, 06 Apr 2026 11:31:00 GMT</lastBuildDate>
-        <item>
+    <lastBuildDate>Tue, 07 Apr 2026 11:30:00 GMT</lastBuildDate>
+            <item>
+      <title>Helix.AI Daily Podcast - April 7, 2026</title>
+      <description><![CDATA[Tuesday's episode covers the biggest AI moves: SpaceX's historic $250B acquisition of xAI, Anthropic's Claude Mythos 5 launch with 10 trillion parameters, Google DeepMind's Gemini 3.1 suite, and Microsoft's multimodel pivot. Plus the AI Pulse segment dives deep into AI in Healthcare &#x2014; from Insilico Medicine's $2.75B Eli Lilly deal to OpenEvidence for clinicians and Medicare's new AI reimbursement rules.]]></description>
+      <content:encoded><![CDATA[Tuesday's episode covers the biggest AI moves: SpaceX's historic $250B acquisition of xAI, Anthropic's Claude Mythos 5 launch with 10 trillion parameters, Google DeepMind's Gemini 3.1 suite, and Microsoft's multimodel pivot. Plus the AI Pulse segment dives deep into AI in Healthcare &#x2014; from Insilico Medicine's $2.75B Eli Lilly deal to OpenEvidence for clinicians and Medicare's new AI reimbursement rules.]]></content:encoded>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1TDeK444xcuZD2TLBuKluCno332l_YwY7&export=download&confirm=t" length="10000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">helix-ai-2026-04-07-080000</guid>
+      <pubDate>Tue, 07 Apr 2026 08:00:00 GMT</pubDate>
+      <itunes:title>Helix.AI Daily Podcast - April 7, 2026</itunes:title>
+      <itunes:summary><![CDATA[Tuesday's episode covers the biggest AI moves: SpaceX's historic $250B acquisition of xAI, Anthropic's Claude Mythos 5 launch with 10 trillion parameters, Google DeepMind's Gemini 3.1 suite, and Microsoft's multimodel pivot. Plus the AI Pulse segment dives deep into AI in Healthcare &#x2014; from Insilico Medicine's $2.75B Eli Lilly deal to OpenEvidence for clinicians and Medicare's new AI reimbursement rules.]]></itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://drive.google.com/uc?export=view&id=16pKQZOmouZ3PLxKP9XwZwRA-16yuzHNV"/>
+    </item>
+    <item>
       <title>Helix.AI Daily Podcast - April 6, 2026</title>
       <description><![CDATA[On today's episode, Lucy covers 7 major AI stories including GPT-5.4 Thinking surpassing human performance on desktop benchmarks, Google's Gemma 4 open-source launch, Microsoft's multi-model Copilot workflows, and Anthropic's new biological research agent Operon. The themed AI Security segment dives into a 4-hour market freeze caused by a tricked AI orchestrator, Anthropic's Claude Code source code leak, and alarming enterprise governance gaps revealed at RSA Conference 2026.]]></description>
       <content:encoded><![CDATA[On today's episode, Lucy covers 7 major AI stories including GPT-5.4 Thinking surpassing human performance on desktop benchmarks, Google's Gemma 4 open-source launch, Microsoft's multi-model Copilot workflows, and Anthropic's new biological research agent Operon. The themed AI Security segment dives into a 4-hour market freeze caused by a tricked AI orchestrator, Anthropic's Claude Code source code leak, and alarming enterprise governance gaps revealed at RSA Conference 2026.]]></content:encoded>
